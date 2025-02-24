@@ -1,1 +1,1 @@
-# Aquisi-es---Jogo-da-Mem-ria
+# Aquisicoes - Jogo da Memoria
